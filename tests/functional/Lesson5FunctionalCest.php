@@ -14,7 +14,7 @@ class Lesson5FunctionalCest
 		$searchButtonCss = 'button[name="submit_search"]';
 		$searchButtonXPath = '//button[@name="submit_search"]';
 		$productCountCss = '.product-count';
-		$productCountXPath = '//div[@class='product-count']'; 
+		$productCountXPath = '//div[@class="product-count"]'; 
 		$I->amOnPage('');
 		$I->fillField('#search_query_top', 'Printed dress');
 		$I->click('button[name="submit_search"]');
