@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'c55bd0defe158ee0a7e66865bc67a8e0690454cf',
+    'reference' => '6cd79b052b8d29c0526634873d4e480d518ddc08',
     'name' => '__root__',
   ),
   'versions' => 
@@ -44,7 +44,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'c55bd0defe158ee0a7e66865bc67a8e0690454cf',
+      'reference' => '6cd79b052b8d29c0526634873d4e480d518ddc08',
     ),
     'behat/gherkin' => 
     array (
@@ -142,6 +142,15 @@ private static $installed = array (
       array (
         0 => '*',
       ),
+    ),
+    'fzaninotto/faker' => 
+    array (
+      'pretty_version' => 'v1.5.0',
+      'version' => '1.5.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'd0190b156bcca848d401fb80f31f504f37141c8d',
     ),
     'guzzlehttp/guzzle' => 
     array (

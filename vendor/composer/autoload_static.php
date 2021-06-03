@@ -70,6 +70,7 @@ class ComposerStaticInit0f8afdcf516c9f59112a23597652f7f2
         ),
         'F' => 
         array (
+            'Faker\\' => 6,
             'Facebook\\WebDriver\\' => 19,
         ),
         'D' => 
@@ -199,6 +200,10 @@ class ComposerStaticInit0f8afdcf516c9f59112a23597652f7f2
         'GuzzleHttp\\' => 
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
+        ),
+        'Faker\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/fzaninotto/faker/src/Faker',
         ),
         'Facebook\\WebDriver\\' => 
         array (
