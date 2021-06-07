@@ -1,1 +1,1 @@
-tests\acceptance\Lesson6LoginErrorCest.php:checkLoginError
+tests\acceptance\Lesson7RandomCategoryCest.php:chooseRandomCategories

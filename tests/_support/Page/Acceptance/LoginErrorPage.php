@@ -29,7 +29,7 @@ class LoginErrorPage
 	public static $errorMessage = '//div[@class="error-message-container error"]';
 	
 	//Селектор кнопки закрытия ошибки
-	public static $errorButton = 'button[@class="error-button"]';
+	public static $errorButton = '//button[@class="error-button"]';
 	
     /**
      * Объект Tester-а
